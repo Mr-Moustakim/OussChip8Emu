@@ -4,7 +4,7 @@
  * Author: Oussama Moustakim                                  *
  * Date: 08/08/2020 <During COVID-19 lockDown>                *
  * Description : In this module we create all functions       *
- *               That are esstiela to the functioning of      *
+ *               That are essential to the functioning of     *
  *               chip8 like initialization, loading, fetching *
  *               the opcode and wait for keyboard input       *
  **************************************************************/
