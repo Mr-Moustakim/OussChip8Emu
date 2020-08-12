@@ -1,2 +1,3 @@
 # OussChip8Emu
-This is a simple emulator for chip8
+This is a simple emulator for chip8, That enable us to play some classic games such as Tetris, Pong, Tank...
+
