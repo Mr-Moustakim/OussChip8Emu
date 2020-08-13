@@ -1,5 +1,5 @@
 # OussChip8Emu
-This is a simple emulator for chip8, That enable us to play some classic games such as Tetris, Pong, Tank...
+This is a simple emulator for chip8, That enables to play some classic games such as Tetris, Pong, Tank...
 ## Tetris
 ![](ScreenShots/TETRIS.PNG)
 ## Tank
@@ -50,5 +50,5 @@ make sur that minGW toolchaine is installed in your computer
 ## Running
 Change directory to `bin` and use the command `main ./nameOfChip8Game`
 ## ROM Games
-You can check these ones [here](https://www.zophar.net/pdroms/chip8/chip-8-games-pack.html)
+You can check these ones [here](https://www.zophar.net/pdroms/chip8/chip-8-games-pack.html)<br/>
 Have fun!!
