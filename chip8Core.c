@@ -61,7 +61,7 @@ void init_chip8(struct chip8* pointerToStruct_ptr)
 			pointerToStruct_ptr->mainScreen.pixels[pix_x][pix_y] = 0;
 		}
 	}
-	/* Initialise the I,SP,PC, delayTimer, the sound timer and general purposes regis V*/
+	/* Initialise the I,SP,PC, delayTimer, the sound timer and general purposes registers Vx*/
 	pointerToStruct_ptr->mainRegisters.I = 0;
 	pointerToStruct_ptr->mainRegisters.SP = 0;
 	pointerToStruct_ptr->mainRegisters.PC = 0;
